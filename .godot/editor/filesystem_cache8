@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1707496128
+icon.svg::CompressedTexture2D::3078763626256245192::1706670188::1706670196::1::::<><>::
+Nature_environment_01.png::CompressedTexture2D::5907314039041453430::1706670910::1706670918::1::::<><>::
+Player.cs::CSharpScript::-1::1707321036::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::393211463575878756::1707336722::0::1::::<><>::uid://c8heqm1w7sq6v::::res://Art/1 Biker/Idle.png<>res://Player.cs<>uid://cliivrx6eschq::::res://Art/1 Biker/Run.png
+world.tscn::PackedScene::6460618766693283285::1707336722::0::1::::<><>::uid://cqfsumveth8f7::::res://Nature_environment_01.png<>uid://fuqeuqblqaxg::::res://player.tscn
+::res://Art/::1707316400
+::res://Art/1 Biker/::1707316411
+Attack.png::CompressedTexture2D::1324046002673190250::1664580656::1707316411::1::::<><>::
+Idle.png::CompressedTexture2D::7103795963881419075::1664580678::1707316411::1::::<><>::
+Run.png::CompressedTexture2D::5561957836893178614::1664580688::1707316411::1::::<><>::
+Run_attack.png::CompressedTexture2D::9195264731925290937::1664580670::1707316411::1::::<><>::

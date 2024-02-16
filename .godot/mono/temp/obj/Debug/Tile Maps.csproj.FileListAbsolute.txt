@@ -1,0 +1,17 @@
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\bin\Debug\Tile Maps.deps.json
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\bin\Debug\Tile Maps.runtimeconfig.json
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\bin\Debug\Tile Maps.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\bin\Debug\Tile Maps.pdb
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\Tile Maps.csproj.AssemblyReference.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\Tile Maps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\Tile Maps.AssemblyInfoInputs.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\Tile Maps.AssemblyInfo.cs
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\Tile Maps.csproj.CoreCompileInputs.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\Tile Maps.csproj.CopyComplete
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\Tile Maps.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\refint\Tile Maps.dll
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\Tile Maps.pdb
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\Tile Maps.genruntimeconfig.cache
+C:\Users\naikd\OneDrive\Documents\Codes\tutorials\TileMaps\.godot\mono\temp\obj\Debug\ref\Tile Maps.dll
